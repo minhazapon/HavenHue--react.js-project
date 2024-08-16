@@ -9,8 +9,9 @@ const Nav = () => {
     const nav = <>
     
         <li><NavLink to="/" >Home</NavLink></li>
-        <li><NavLink to="/About">AboutUs</NavLink></li>
+        <li><NavLink to="/about">AboutUs</NavLink></li>
         <li><NavLink to="/design">Design</NavLink></li>
+        <li><NavLink to="/design">Architect</NavLink></li>
     
     
     
