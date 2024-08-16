@@ -6,6 +6,7 @@ import Info from "./home file/Info";
 import IntoCard from "./home file/IntoCard";
 import Room from "./home file/Room";
 import We from "./home file/We";
+import Work from "./home file/Work";
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
             <Room></Room>
             <FURDesign></FURDesign>
             <Company></Company>
+            <Work></Work>
             
         </div>
     );
