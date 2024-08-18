@@ -2,6 +2,7 @@ import ARBanner from "./ARBanner";
 import We from '../home file/We'
 import Products from "./Products";
 import Interior from "./Interior";
+import Our from "./Our";
 
 
 
@@ -18,6 +19,7 @@ const Architect = () => {
               <We></We>
               <Products></Products>
               <Interior></Interior>
+              <Our></Our>
 
 
 
