@@ -3,6 +3,8 @@ import We from '../home file/We'
 import Products from "./Products";
 import Interior from "./Interior";
 import Our from "./Our";
+import Builds from "./Builds";
+import High from "./High";
 
 
 
@@ -20,6 +22,8 @@ const Architect = () => {
               <Products></Products>
               <Interior></Interior>
               <Our></Our>
+              <Builds></Builds>
+              <High></High>
 
 
 
