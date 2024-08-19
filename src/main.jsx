@@ -11,6 +11,7 @@ import Root from './Root.jsx';
 import Home from './Home.jsx';
 import About from './aboutFiles/About.jsx';
 import Architect from './architect file/Architect.jsx';
+import Design from './design files/Design.jsx';
 
 
 const router = createBrowserRouter([
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: "/architect",
         element:   <Architect></Architect>  ,
+      },
+      {
+        path: "/design",
+        element:   <Design></Design>   ,
       },
     ],
   },

@@ -5,6 +5,7 @@ import Interior from "./Interior";
 import Our from "./Our";
 import Builds from "./Builds";
 import High from "./High";
+import When from "./When";
 
 
 
@@ -24,6 +25,7 @@ const Architect = () => {
               <Our></Our>
               <Builds></Builds>
               <High></High>
+              <When></When>
 
 
 
